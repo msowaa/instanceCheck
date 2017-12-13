@@ -49,7 +49,7 @@ namespace InstanceChechCopy
 
             Console.WriteLine("");
             Console.WriteLine("number of wrong instances: " + wrongInstanceCounter);
-            Console.WriteLine("");
+            //Console.WriteLine("");
             Console.WriteLine("Press any key to exit.");
             Console.ReadKey();
         }
